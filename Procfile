@@ -1,0 +1,1 @@
+web: java -jar TriPallets-V2.war --port $PORT
